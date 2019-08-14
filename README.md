@@ -15,7 +15,7 @@ paper:  http://openaccess.thecvf.com/content_iccv_2015/html/Xie_Holistically-Nes
 we use the pretrained model directly to our project, we get excited at first, Because it gives us a lot of confidence, he has a much better effect than the traditional boundary detect operator(such as Canny, Sobel), and it is also firm that we use a learning-based approach to solve the problem.Results are as follows:
 
 
-![Original image](https://github.com/USTCzzl/Deecamp27/blob/master/image/original/girl_origin.jpg){zoom: 50%;}
+![Original image](https://github.com/USTCzzl/Deecamp27/blob/master/image/original/girl_origin.jpg)
 ![Edge image](https://github.com/USTCzzl/Deecamp27/blob/master/image/sketch/final.png)
 ![vector image](https://github.com/USTCzzl/Deecamp27/blob/master/image/vector/final_2.png)
 
@@ -24,4 +24,37 @@ Although it has achieved relatively good results, our project requires that the 
 
 
 
+
+
 In order to prevent the outermost wireframe from closing, we also use an energy-based algorithm (snake, level set) to enclose the outer frame at the outermost layer, which also has a good effect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Another methods
+-----------
+#RCF
+
+paper: http://openaccess.thecvf.com/content_cvpr_2017/html/Liu_Richer_Convolutional_Features_CVPR_2017_paper.html <br>
+
+code:https://github.com/yun-liu/rcf
+
+
+

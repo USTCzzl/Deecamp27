@@ -84,6 +84,6 @@ this is a method from Gan, but someone has used it to do the edge search problem
      
 code
 --------
-if you want to test in your own image, you can download the test document(),there are three different methods.
+if you want to test in your own image, you can download the test document(only HED && RCF),there are three different methods.
       
 

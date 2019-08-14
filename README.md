@@ -29,6 +29,8 @@ Although it has achieved relatively good results, our project requires that the 
 
 
 In order to prevent the outermost wireframe from closing, we also use an energy-based algorithm (snake, level set) to enclose the outer frame at the outermost layer, which also has a good effect.
+![](https://github.com/USTCzzl/Deecamp27/blob/master/image/levelset/level_set.png)<br>
+code:https://github.com/USTCzzl/Deecamp27/blob/master/image/levelset/level_set.cpp
 
 
 
@@ -76,5 +78,13 @@ Pip2Pix & Cycle Gan
 this is a method from Gan, but someone has used it to do the edge search problem
       the paper is here: https://arxiv.org/abs/1901.00542<br>
       code: https://github.com/mtli/PhotoSketch
-      it indeed get progress in BSDS500, but it lack of generalization in our datasets, the result is very abstract.but style transfer can work in this problem, our group member use cycle gan train the dataset about 4 days get wonderful results, i will show some picture as follows:
+      it indeed get progress in BSDS500, but it lack of generalization in our datasets, the result is very abstract.but style transfer can work in this problem, our group member use cycle gan train the dataset about 4 days get wonderful results, i will show some picture in the future..
+     
+     
+     
+     
+code
+--------
+if you want to test in your own image, you can download the test document(),there are three different methods.
+      
 

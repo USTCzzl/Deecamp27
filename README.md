@@ -15,7 +15,7 @@ paper:  http://openaccess.thecvf.com/content_iccv_2015/html/Xie_Holistically-Nes
 we use the pretrained model directly to our project, we get excited at first, Because it gives us a lot of confidence, he has a much better effect than the traditional boundary detect operator(such as Canny, Sobel), and it is also firm that we use a learning-based approach to solve the problem.Results are as follows:
 
 
-![Original image](https://github.com/USTCzzl/Deecamp27/blob/master/image/original/girl_origin.jpg){:height="50%" width="50%"}
+![Original image](https://github.com/USTCzzl/Deecamp27/blob/master/image/original/girl_origin.jpg){zoom: 50%;}
 ![Edge image](https://github.com/USTCzzl/Deecamp27/blob/master/image/sketch/final.png)
 ![vector image](https://github.com/USTCzzl/Deecamp27/blob/master/image/vector/final_2.png)
 

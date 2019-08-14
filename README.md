@@ -66,6 +66,15 @@ code:https://github.com/pkuCactus/BDCN<br>
 paper:https://arxiv.org/pdf/1902.10903.pdf
 
 
-Both of the methods we have tried, we retrained the model, but the results is not satisfied, there are some enhance but not enough, the three method almost some, only some difference in network structure,i will put my code in github.now let us see some difference way to thinking the problem.
+Both of the methods we have tried, we retrained the model, but the results is not satisfied, there are some enhance but not enough, the three method almost some, only some difference in network structure,i will put my code in github.now let me show some difference way to thinking the problem.
 
+
+
+Pip2Pix & Cycle Gan
+---------
+
+this is a method from Gan, but someone has used it to do the edge search problem
+      the paper is here: https://arxiv.org/abs/1901.00542<br>
+      code: https://github.com/mtli/PhotoSketch
+      it indeed get progress in BSDS500, but it lack of generalization in our datasets, the result is very abstract.but style transfer can work in this problem, our group member use cycle gan train the dataset about 4 days get wonderful results, i will show some picture as follows:
 

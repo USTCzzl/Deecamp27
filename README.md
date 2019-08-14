@@ -7,7 +7,8 @@ This is the Projet to generate the closed boundary of a image
             we did not reach the point we except, but get some results.
             
 
-#HED:
+HED:
+--------
 code:  https://github.com/s9xie/hed <br>
 paper:  http://openaccess.thecvf.com/content_iccv_2015/html/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.html
      
@@ -49,10 +50,9 @@ In order to prevent the outermost wireframe from closing, we also use an energy-
 
 
 
-Another methods
----------------
 
-#RCF
+RCF
+-----------
 
 code:https://github.com/yun-liu/rcf<br>
 paper: http://openaccess.thecvf.com/content_cvpr_2017/html/Liu_Richer_Convolutional_Features_CVPR_2017_paper.html 
@@ -60,7 +60,8 @@ paper: http://openaccess.thecvf.com/content_cvpr_2017/html/Liu_Richer_Convolutio
 
 
 
-#BDCN
+BDCN
+------------
 code:https://github.com/pkuCactus/BDCN<br>
 paper:https://arxiv.org/pdf/1902.10903.pdf
 

@@ -5,7 +5,7 @@ This is the Projet to generate the closed boundary of a image
             
 
 HED:
-     code:  https://github.com/s9xie/hed
+     code:  https://github.com/s9xie/hed\n
      paper:  http://openaccess.thecvf.com/content_iccv_2015/html/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.html
      
 

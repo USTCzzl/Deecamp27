@@ -54,9 +54,17 @@ Another methods
 
 #RCF
 
-paper: http://openaccess.thecvf.com/content_cvpr_2017/html/Liu_Richer_Convolutional_Features_CVPR_2017_paper.html <br>
+code:https://github.com/yun-liu/rcf<br>
+paper: http://openaccess.thecvf.com/content_cvpr_2017/html/Liu_Richer_Convolutional_Features_CVPR_2017_paper.html 
 
-code:https://github.com/yun-liu/rcf
 
+
+
+#BDCN
+code:https://github.com/pkuCactus/BDCN<br>
+paper:https://arxiv.org/pdf/1902.10903.pdf
+
+
+Both of the methods we have tried, we retrained the model, but the results is not satisfied, there are some enhance but not enough, the three method almost some, only some difference in network structure,i will put my code in github.now let us see some difference way to thinking the problem.
 
 

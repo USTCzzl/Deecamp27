@@ -7,5 +7,12 @@ This is the Projet to generate the closed boundary of a image
 HED:
      code:  https://github.com/s9xie/hed
      
-     paper:  
+     paper:  http://openaccess.thecvf.com/content_iccv_2015/html/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.html
+     
+
+
+we use the pretrained model directly to our project, we get excited at first, Because it gives us a lot of confidence, he has a much better effect than the traditional boundary detect operator(such as Canny, Sobel), and it is also firm that we use a learning-based approach to solve the problem.Results are as follows:
+
+
+
             

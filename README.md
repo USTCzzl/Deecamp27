@@ -1,12 +1,12 @@
 # Deecamp27
-============<br>
+
+
 This is the Projet to generate the closed boundary of a image
       we have tried many difference methods to slove it
             we did not reach the point we except, but get some results.
             
 
-HED:
-------------
+##HED:
 code:  https://github.com/s9xie/hed <br>
 paper:  http://openaccess.thecvf.com/content_iccv_2015/html/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.html
      
@@ -48,9 +48,9 @@ In order to prevent the outermost wireframe from closing, we also use an energy-
 
 
 
-Another methods
------------
-#RCF
+##Another methods
+
+###RCF
 
 paper: http://openaccess.thecvf.com/content_cvpr_2017/html/Liu_Richer_Convolutional_Features_CVPR_2017_paper.html <br>
 

@@ -1,6 +1,5 @@
 # Deecamp32
 ============
-.<img src="https://github.com/USTCzzl/Deecamp27/deecamp_poster 32.pdf"/>
 
 This is the Projet to generate the closed boundary of a image
       we have tried many difference methods to slove it
